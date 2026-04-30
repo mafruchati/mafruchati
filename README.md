@@ -1,6 +1,4 @@
-## Hi there 👋 U can call me ulfi not "Ul" 😄
-
-# Halo 👋
+## Hi everyone 👋 U can call me ulfi not "Ul" 😄
 
 ## Snake Contribution
 

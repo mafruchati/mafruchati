@@ -3,9 +3,8 @@
 ![snake](https://raw.githubusercontent.com/mafruchati/snake_animation/output/snake.svg)
 
 🌱 I’m currently learning ...
-<img width="30" height="30" alt="Badass Python Sticker _ Python-language" src="https://github.com/user-attachments/assets/2e284ba0-4ce2-422f-9c2f-b651d60fe245" />
-<img width="20" height="20" alt="Visual Studio Code Sticker _ Visual-studio-code" src="https://github.com/user-attachments/assets/8e84acce-26dc-4a6f-acf4-cb2a18272b96" />
-<img width="10" height="10" alt="HTML programming language logo by code t-shirt _ Redbubble" src="https://github.com/user-attachments/assets/c575b435-352f-495b-86b0-dd7f21796a65" />
+
+   <img width="100" height="100" alt="Badass Python Sticker _ Python-language" src="https://github.com/user-attachments/assets/2e284ba0-4ce2-422f-9c2f-b651d60fe245" />     <img width="100" height="100" alt="Visual Studio Code Sticker _ Visual-studio-code" src="https://github.com/user-attachments/assets/8e84acce-26dc-4a6f-acf4-cb2a18272b96" />    <img width="100" height="100" alt="HTML programming language logo by code t-shirt _ Redbubble" src="https://github.com/user-attachments/assets/c575b435-352f-495b-86b0-dd7f21796a65" />
 
 <!--
 **mafruchati/mafruchati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 U can call me ulfi not "Ul" 😄
+
+# Halo 👋
+
+## Snake Contribution
+
+![snake](https://raw.githubusercontent.com/mafruchati/snake_animation/output/snake.svg)
 
 <!--
 **mafruchati/mafruchati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

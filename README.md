@@ -2,7 +2,7 @@
 
 ![snake](https://raw.githubusercontent.com/mafruchati/snake_animation/output/snake.svg)
 
-🌱pr sehidup seuin...
+🌱archive learning...
 
   <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" style="margin: 8px;">
